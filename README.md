@@ -15,6 +15,7 @@ _by buhbai_
   - [04-d to 02-d or "Shaft skip route"](#04-d-to-02-d-or-shaft-skip-route)
 - [Golden Ridge](#golden-ridge)
   - [b-sec(2) or "Blockless heart"](#b-sec2-or-blockless-heart)
+  - [b-08 or "First blockless"](#b-08-or-first-blockless)
   - [c_06b](#c-06b)
 - [Mirror Temple](#mirror-temple)
   - [b-06 or "Crouched bubble skip"](#b-06-or-crouched-bubble-skip)
@@ -97,7 +98,7 @@ There are four things to keep in mind and to look out for when attempting this:
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/6.webp)
 
-In the bottom left of the gif (and of every gif), I have an input display - left bumper is my demo button. As you can see, I dash right with a normal dash and then demo hyper left. Some people may ask why I wouldn’t just do demo dashes right and left to make it simpler. The reason for this is that you can’t demo dash twice consecutively whilst crouched, you have to wait to uncrouch. This means that you need to do a normal horizontal dash across the platform to regain your dash then quickly demo hyper the other way to avoid either getting a dashjump or having to wait to uncrouch.
+In the bottom left of the video (and of every video), I have an input display - left bumper is my demo button. As you can see, I dash right with a normal dash and then demo hyper left. Some people may ask why I wouldn’t just do demo dashes right and left to make it simpler. The reason for this is that you can’t demo dash twice consecutively whilst crouched, you have to wait to uncrouch. This means that you need to do a normal horizontal dash across the platform to regain your dash then quickly demo hyper the other way to avoid either getting a dashjump or having to wait to uncrouch.
 
 ## Old Site
 
@@ -117,7 +118,7 @@ In order to set this up quickly from entry, from the first up hyper, go neutral 
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/9.webp)
 
-This cycle skip up to the heart is tricky if you don’t know what to look out for but with some cues, this is actually quite easy. Upon entering the 2nd screen in the gif, climbjump up and get to the ceiling before dashing. This will make it so you are closer to the shaft you’re trying to climb up so you will be fast enough to beat the cycle. From there, up hyper and jump around where the first choke point is, as shown: 
+This cycle skip up to the heart is tricky if you don’t know what to look out for but with some cues, this is actually quite easy. Upon entering the 2nd screen in the video, climbjump up and get to the ceiling before dashing. This will make it so you are closer to the shaft you’re trying to climb up so you will be fast enough to beat the cycle. From there, up hyper and jump around where the first choke point is, as shown: 
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/10.png)
 
@@ -157,6 +158,16 @@ Up dashing roughly around this corner in the background tiles will align you nic
 
 Even with these pointers, it will take a lot of practice to get it down to muscle memory and to a point where you can get this consistently first try but it is worth learning. You save roughly 4s with this first try and each attempt costs about 2.5s so you would still be saving time second try and only be losing around 0.5s to using the white block on the third try. Knowing all this, I would only recommend implementing this into full runs when you can get this 1-in-3 tries every time without fail.
 
+### b-08 or "First blockless"
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/29.webp)
+
+Utilises a tech that's only really used in TASing called a "ceiling pop", which enables you to essentially climbjump off the bottom of a wall just after slipping off of it, giving you a tiny bit of distance and height. To do this, get into the little crevice of the wall as shown in the video and climbjump up once so that you are flush with the top of it. What this does is reset your subpixel to .00 so that the ceiling pop doesn't get affected by subpixels. Once you're at the top, simply let go of grab and hold right, making you slide down the wall slowly. Finally, input a climbjump when you're near the bottom of the wall and you should be able to successfully perform a ceiling pop. 
+
+Once you get the hang of that, it's the easy part. The hard part is the diagonal dash into cornerjump after the ceiling pop, which is a 2-frame window with a diagonal dash and a 4-frame window with a diagonal demo dash, sounds difficult but it is easier than it sounds as you're approaching that window in the same way every time so there are no variables affecting you leading up to it really, it just becomes a timing issue which you can get consistent at. 
+
+This saves 4-5s in ARB roughly, depending on what your previous strat was. This also goes around even/loses 1s second try depending on where you fail the strat so if you can get it 50% of the time at least then I would say it is worth considering implementing. 
+
 ### c-06b
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/16.webp)
@@ -195,12 +206,11 @@ Now that you’re in the bubble, all you have to do is move up with the bubble a
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/21.webp)
 
-
-This involves a pixel lineup into a demodash through the spike wall to skip the screen almost entirely. To do this, stand on the far-right edge of the green block, do a maximum height jump and downdash whilst holding grab. This will make you grab the side of the block one pixel above where you want to demodash. From here, release and repress grab quickly to move one pixel down so that you’re now grabbing the wall at this pixel:
+This involves a pixel lineup into a demodash through the spike wall to skip the screen almost entirely. To do this, you need to be stand on the far-right edge of the green block, do a maximum height jump and downdash whilst holding grab. This will make you grab the side of the block one pixel above where you want to demodash. From here, release and repress grab quickly to move one pixel down so that you’re now grabbing the wall at this pixel:
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/22.png)
 
-Then it’s simply demodashing to the right.
+Then it’s simply demodashing to the right with the demo button that has dash bound to it also.
 
 ## Core
 
@@ -246,14 +256,4 @@ Once you grab the berry, you want to fall onto the side of the right bumper and 
 
 Hopefully this has been useful to you and has made the majority of these strats easier to learn and implement into your own runs. Good luck!
 
-Thanks to czyys' dustforce guide for this format and using github in general. A lot beter than google docs.
-
-
-
-
-
-
-
-
-
-
+Thanks to czyys' dustforce guide for this format and using github in general. A lot better to format than google docs.
