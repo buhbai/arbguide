@@ -58,3 +58,14 @@ A berry that spawns once all the berry seeds that make it up are collected on th
 **Berry seeds**
 
 Floating seeds that are dropped when you come into contact with the ground. You have 9 frames on the ground for seeds to reset, but they'll reset immediately if you move upward from the ground, e.g. dash up/diagonal dash up or jump.
+
+## Heart route
+
+Collecting 4 hearts is required in the ARB run to access the Core and collect the final 5 berries and complete the run. The recommended route for beginners was collecting the hearts in 1A to 4A as they are the quickest of the A-Sides. This allows you to do 6A which is a lot more forgiving and is more comfortable for most runners than 6B as it is part of the current recommended Any% route. 
+
+However, 6B is used in the heart route that is considerably faster than the beginner route simply because you skip having to collect a heart in the A-Side for the same time frame, since 6B is just as fast (if not faster, depending on what you get for 6A times on average) than 6A and 6A doesn’t contain any berries. This is why we can go to 6A, collect the cassette and quit to play 6B and unlock Summit that way.
+
+If you plan on running with 6B, the slowest of the 4 A-Side hearts is Old Site, which takes around 19.3s to collect. This means that doing the 6B route, as long as you get a time that is equivalent to a time doing the 6A route, saves at least 19.3s, not including the time you can potentially save over better execution of 6B over 6A and what not.
+
+A question that comes up a lot is “So when should I be playing 6B?” I would say the best time to start playing 6B would be when it’s difficult for you to improve your 6A average anymore and when your 6B time is up to the level of your 6A at least. This means you can either start playing 6B from the get go and get a headstart at getting comfortable with the level or wait until you’ve gotten a few PBs under your belt; the choice is yours.
+
