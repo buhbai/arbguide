@@ -170,3 +170,72 @@ This uses a fairly easy setup to guarantee landing on the safe ground here that 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/17.webp)
 
 Utilises the property of being in crouch state when entering bubbles moving you up 2 pixels, which gives you just enough height to grab onto the lip of the wall. An easy way to enter the bubble in crouch state is to just crouch underneath the bubble and jump into it whilst holding down. A good visual cue for when to dash up out of the bubble is when you reach the gold candle on the wall. Once you up dash out of the bubble, you need to wait a millisecond before going for the grab to gain a very small amount of height. If you try to grab the wall as soon as you dash out, you will not reach the wall.
+
+### d-15 (Upper Area) 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/18.webp)
+
+This simply involves an extended hyper into a buffered demo dash. I recommend holding your demo button down for the entire strat so you can do an extended demo hyper into a demo dash which cuts the inputs needed. It is also important to hold jump out of the demo hyper right up until you demodash, else you won’t get enough height. Takes some practice and getting used to but isn’t all too bad once you understand it and play around with it. You break even with going over the top with second try so I would only implement this into full game when you can get it first or second try every time without fail.
+
+### d-04 (Lower Area)
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/19.webp)
+
+Involving an ultra into a spikejump, this strat skips this screen almost entirely and allows you to get through it much quicker than the intended route. The only important part is when you ultra, the rest is fairly simple. 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/20.png)
+
+This shows around about where you will want to be ultraing from out of the bubble - you want to ultra from the right half of this gold candle roughly. If you ultra later, you will dash into the spike floor. Once you ultra, do not hold down and you should be able to grab onto the side of the corner. From there, simply climbjump into the bubble.
+
+Now that you’re in the bubble, all you have to do is move up with the bubble and quickly dash up out of it. This will make you grab the berry just barely whilst also breaking the bubble a lot sooner than if you were to continue with the bubble all the way to the ceiling, meaning the bubble will also respawn sooner. When you grab the berry, do not fast fall into the bubble, slow falling into it perfectly lands you inside it as it spawns. From there, you just head for the bubble near the exit.
+
+## The Summit
+
+### a-02b
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/21.webp)
+
+
+This involves a pixel lineup into a demodash through the spike wall to skip the screen almost entirely. To do this, stand on the far-right edge of the green block, do a maximum height jump and downdash whilst holding grab. This will make you grab the side of the block one pixel above where you want to demodash. From here, release and repress grab quickly to move one pixel down so that you’re now grabbing the wall at this pixel:
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/22.png)
+
+Then it’s simply demodashing to the right.
+
+## Core
+
+### b-01 to b-06 or "Ice Skip"
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/23.webp)
+
+Ice skip involves a reverse hyper off of a fire core block into an ultra, followed by a bunnyhop into a cornerboost in the next screen, followed by another ultra in that same screen to launch yourself across the third screen and onto the wall with both of your dashes in tact. Difficult at first but with practice, it becomes a very easy strat to get consistently. Definitely learn this before doing runs, it saves roughly 35s over the intended route, meaning you can probably get a 5th try ice skip and still save time or at least break even.
+
+Wait for the fire core block to wind up then reverse hyper to get the full speed boost. Reverse hyper quickly and ultra right after. This should conserve your momentum well. In the next screen (b-00), you want to delay your bunnyhop slightly so that you get a good angle for cornerboosting off the small ledge. Once you bunnyhop, hold jump and immediately jump whilst holding grab with your second jump button to cornerboost. 
+
+Once you cornerboost, you want to ultra around where the second dash crystal is, since that's usually when you're at the apex of the bunnyhop: 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/24.png)
+
+If you do it all correctly, you should bunnyhop in the third screen (b-06) and be able to grab the far-left wall. From here, neutral jump/climb up to around the height of where the berry is like so: 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/25.png)
+
+This gives you a consistent visual cue of what a good height is to walljump off of the wall here. When the left fireball gets around to or just slightly underneath this line, walljump off the wall. In order to get the most out of your dashes, you want to use your first upright dash as late as you can - a good visual cue for this would be when you get just above the left fireball: 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/26.png)
+
+This should allow you to clear the second wave of fireballs. Once you just get past the second wave, up right dash once more and climbjump at the end to get to the other side, completing the strat.
+
+There are some scenarios that you need to keep in mind when attempting this strat; sometimes you will go too fast into the third screen and sometimes you will go too slow. In the case that you are going too fast, after you bunnyhop in the third screen, pull back by turning right to slow down. As long as you aren’t going extremely fast, you will slow down enough to clear the fireballs once more. If you’re going too slow, you will need to bunnyhop quite late to maximise your distance, like so: 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/27.webp)
+
+
+
+
+
+
+
+
+
+
