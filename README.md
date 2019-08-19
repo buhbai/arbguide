@@ -93,7 +93,7 @@ There are four things to keep in mind and to look out for when attempting this:
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/5.webp)
 
-## 9c
+**9c**
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/6.webp)
 
