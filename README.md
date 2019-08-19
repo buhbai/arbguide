@@ -39,7 +39,7 @@ Please use the document outline on the left to navigate through the guide a lot 
 
 ## Berry mechanics
 
-**Berry collection**
+### Berry collection
 
 To quote euni: “To collect a berry you must: 
 - Be on safe ground for 9 consecutive frames
@@ -47,15 +47,15 @@ To quote euni: “To collect a berry you must:
 
 This means that collecting more than one berry at once ends up taking twice as long as as collecting just one, which can throw off your timing and potentially lose a berry by retrying or returning to map too quickly for instance; keep this in mind.
 
-**Winged berry**
+### Winged berry
 
 Floating berry that flies away once you dash on that particular screen. The hitbox of winged berries oscillate up and down on a cycle as opposed to the static hitbox of normal berries.
 
-**Seeded berry**
+### Seeded berry
 
 A berry that spawns once all the berry seeds that make it up are collected on that particular screen. You can skip the cutscene of the berry spawning.
 
-**Berry seeds**
+### Berry seeds
 
 Floating seeds that are dropped when you come into contact with the ground. You have 9 frames on the ground for seeds to reset, but they'll reset immediately if you move upward from the ground, e.g. dash up/diagonal dash up or jump.
 
@@ -71,7 +71,7 @@ A question that comes up a lot is “So when should I be playing 6B?” I would 
 
 ## Forsaken City
 
-**6a to s0 or "Coffee Shop Jump"**
+### 6a to s0 or "Coffee Shop Jump"
 
 ![Image of Coffee Shop Jump](https://github.com/buhbai/arbguide/blob/master/Images/1.webp)
 
@@ -93,7 +93,7 @@ There are four things to keep in mind and to look out for when attempting this:
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/5.webp)
 
-**9c**
+### 9c
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/6.webp)
 
@@ -101,7 +101,7 @@ In the bottom left of the gif (and of every gif), I have an input display - left
 
 ## Old Site
 
-**end_3c**
+### end_3c
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/7.webp)
 
@@ -110,6 +110,10 @@ To line this spike cornerjump correctly, you need to jump off the edge of this p
 ![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/8.png)
 
 In order to set this up quickly from entry, from the first up hyper, go neutral and then up hyper off the left wall. Neutral off of this up hyper also and then walljump off the right wall and hold left. This is shown in the input display. Doing all of this correctly will line you up to jump off the edge of the platform when you land on the next screen, thus setting up the spike cornerjump itself.
+
+## Celestial Resort
+
+### 12-x to 13-b
 
 
 
