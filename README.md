@@ -32,8 +32,6 @@ This guide will be giving a detailed rundown on the advanced strategies that are
 
 I will be labelling each screen by its ID denoted in debug mode (screens that are visited more than once or are large that need specifying where in the screen the strat is are shown with “(x)” next to their ID). If you have any questions about anything specific that needs more elaboration than I’ve already given here, then DM me on discord @buhbai#7271. **This guide is a constant WIP** - if you feel like a strat needs to be further explained and deserves to be in the guide then also DM me and I’ll consider adding it.
 
-Please use the document outline on the left to navigate through the guide a lot easier. If you can’t see it, go to View -> Show document outline in the top left. 
-
 **Celeste Speedrunning Discord:** https://discord.gg/wgNC54H  
 
 **Celeste ARB Leaderboard:** https://www.speedrun.com/Celeste#All_Red_Berries 
