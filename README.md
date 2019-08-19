@@ -72,4 +72,4 @@ A question that comes up a lot is “So when should I be playing 6B?” I would 
 ## Forsaken City
 
 **6a to s0 or "Coffee Shop Jump"**
-
+![Image of Coffee Shop Jump](https://github.com/buhbai/arbguide/blob/master/Images/1.webp)
