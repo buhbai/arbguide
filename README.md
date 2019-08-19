@@ -126,3 +126,13 @@ This cycle skip up to the heart is tricky if you don’t know what to look out f
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/11.webp)
 
 When going backwards through the exit of the Resort heart room, the game does not have a proper checkpoint set for this entrance and will instead place you in the upper half of this room, which happens to be an early section of the books path.  This skips a couple of screens, most importantly another visit to the main hub room and a conversation with Oshiro.  Trivially easy to execute, all you need to do is jump or dash back into the previous room after exiting the heart room before the path can close behind you, and then save and quit during the heart collection cutscene (for full clear ILs, use a deathwarp instead - for full game runs, save and quitting saves ingame time over the deathwarp).  As a result, be mindful that the common Huge Mess order for ARB is Chests -> Towels -> Books as opposed to Chests -> Books -> Towels in any%.
+
+### 04-d to 02-d or "Shaft skip route"
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/12.webp)
+
+Shaft skip can be implemented into the ARB run by collecting the two berries located in 03-b, doing 04-c backwards and then performing shaft skip itself in 04-d. Optimally this saves around 0.6 to 0.8s depending on how fast your shaft skip setup is. Also, doing the berry in 04-d on the way to the key room instead of on the way to the shaft skip room is 0.2s faster but doing the optimal strat to collect the berry on the way to the key room is considerably harder than just collecting it when doing the screen backwards. This means that overall, the skip can save anywhere between 0.4s and 0.8s. 
+
+I wouldn’t recommend using shaft skip in ARB unless you’re very confident in pulling it off first try with a decently quick setup every run since if you die once at the skip or take too long to setup the skip, you will instantly start losing time compared to a far easier route overall. 
+
+It’s also not as cool as the route with the quad hyper screen :)
