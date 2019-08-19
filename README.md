@@ -69,3 +69,7 @@ If you plan on running with 6B, the slowest of the 4 A-Side hearts is Old Site, 
 
 A question that comes up a lot is “So when should I be playing 6B?” I would say the best time to start playing 6B would be when it’s difficult for you to improve your 6A average anymore and when your 6B time is up to the level of your 6A at least. This means you can either start playing 6B from the get go and get a headstart at getting comfortable with the level or wait until you’ve gotten a few PBs under your belt; the choice is yours.
 
+## Forsaken City
+
+**6a to s0 or "Coffee Shop Jump"**
+
