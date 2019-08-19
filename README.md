@@ -91,7 +91,11 @@ There are four things to keep in mind and to look out for when attempting this:
 
 4. Wait a tiny bit after the transition to use the momentum of the diagonal dash, moving you up and right very slightly. Up dash once this speed drops off.
 
-![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/5.webp)
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/5.webp)
 
+## 9c
 
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/6.webp)
+
+In the bottom left of the gif (and of every gif), I have an input display - left bumper is my demo button. As you can see, I dash right with a normal dash and then demo hyper left. Some people may ask why I wouldn’t just do demo dashes right and left to make it simpler. The reason for this is that you can’t demo dash twice consecutively whilst crouched, you have to wait to uncrouch. This means that you need to do a normal horizontal dash across the platform to regain your dash then quickly demo hyper the other way to avoid either getting a dashjump or having to wait to uncrouch.
 
