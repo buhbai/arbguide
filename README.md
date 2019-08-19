@@ -115,5 +115,9 @@ In order to set this up quickly from entry, from the first up hyper, go neutral 
 
 ### 12-x to 13-b
 
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/9.webp)
 
+This cycle skip up to the heart is tricky if you don’t know what to look out for but with some cues, this is actually quite easy. Upon entering the 2nd screen in the gif, climbjump up and get to the ceiling before dashing. This will make it so you are closer to the shaft you’re trying to climb up so you will be fast enough to beat the cycle. From there, up hyper and jump around where the first choke point is, as shown: 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/10.png)
 
