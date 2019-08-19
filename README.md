@@ -39,18 +39,22 @@ Please use the document outline on the left to navigate through the guide a lot 
 
 ## Berry mechanics
 
-Berry collection
+**Berry collection**
+
 To quote euni: “To collect a berry you must: 
-Be on safe ground for 9 consecutive frames
-Be on safe ground for 18 total frames if you had another berry when you picked up the berry you’re trying to collect.”
+- Be on safe ground for 9 consecutive frames
+- Be on safe ground for 18 total frames if you had another berry when you picked up the berry you’re trying to collect.”
 
 This means that collecting more than one berry at once ends up taking twice as long as as collecting just one, which can throw off your timing and potentially lose a berry by retrying or returning to map too quickly for instance; keep this in mind.
 
-Winged berry
+**Winged berry**
+
 Floating berry that flies away once you dash on that particular screen. The hitbox of winged berries oscillate up and down on a cycle as opposed to the static hitbox of normal berries.
 
-Seeded berry
+**Seeded berry**
+
 A berry that spawns once all the berry seeds that make it up are collected on that particular screen. You can skip the cutscene of the berry spawning.
 
-Berry seeds
+**Berry seeds**
+
 Floating seeds that are dropped when you come into contact with the ground. You have 9 frames on the ground for seeds to reset, but they'll reset immediately if you move upward from the ground, e.g. dash up/diagonal dash up or jump.
