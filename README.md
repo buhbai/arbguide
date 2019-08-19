@@ -99,3 +99,17 @@ There are four things to keep in mind and to look out for when attempting this:
 
 In the bottom left of the gif (and of every gif), I have an input display - left bumper is my demo button. As you can see, I dash right with a normal dash and then demo hyper left. Some people may ask why I wouldn’t just do demo dashes right and left to make it simpler. The reason for this is that you can’t demo dash twice consecutively whilst crouched, you have to wait to uncrouch. This means that you need to do a normal horizontal dash across the platform to regain your dash then quickly demo hyper the other way to avoid either getting a dashjump or having to wait to uncrouch.
 
+## Old Site
+
+**end_3c**
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/7.webp)
+
+To line this spike cornerjump correctly, you need to jump off the edge of this platform here: 
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/8.png)
+
+In order to set this up quickly from entry, from the first up hyper, go neutral and then up hyper off the left wall. Neutral off of this up hyper also and then walljump off the right wall and hold left. This is shown in the input display. Doing all of this correctly will line you up to jump off the edge of the platform when you land on the next screen, thus setting up the spike cornerjump itself.
+
+
+
