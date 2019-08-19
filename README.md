@@ -136,3 +136,25 @@ Shaft skip can be implemented into the ARB run by collecting the two berries loc
 I wouldn’t recommend using shaft skip in ARB unless you’re very confident in pulling it off first try with a decently quick setup every run since if you die once at the skip or take too long to setup the skip, you will instantly start losing time compared to a far easier route overall. 
 
 It’s also not as cool as the route with the quad hyper screen :)
+
+## Golden Ridge
+
+### b-sec(2) or "Blockless heart"
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/13.webp)
+
+This strat involves an up hyper and a cornerjump; the setup is quite precise when starting out but with practice, this becomes very easy when you rely on muscle memory. To begin with, reverse dashjump and then do one full climbjump on the wall. Here is where the tricky part of the strat begins.
+
+The up hyper needs to be off of the maximum distance from a wall that the player can wall jump off of and not off of the wall itself. You must also jump off the very bottom of this corner. You can see this here: 
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/14.png)
+
+To setup the alignment you need to jump off of the maximum distance off of this corner, up dash when you reach this visual cue: 
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/15.png)
+
+Up dashing roughly around this corner in the background tiles will align you nicely. From there, don’t move left or right until you actually jump. Once you jump, just hold it off of the up hyper then cornerjump using your second jump button, still holding your first jump button, and dash into the heart after bouncing on it.
+
+Even with these pointers, it will take a lot of practice to get it down to muscle memory and to a point where you can get this consistently first try but it is worth learning. You save roughly 4s with this first try and each attempt costs about 2.5s so you would still be saving time second try and only be losing around 0.5s to using the white block on the third try. Knowing all this, I would only recommend implementing this into full runs when you can get this 1-in-3 tries every time without fail.
+
+
