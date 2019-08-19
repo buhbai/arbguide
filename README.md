@@ -157,4 +157,16 @@ Up dashing roughly around this corner in the background tiles will align you nic
 
 Even with these pointers, it will take a lot of practice to get it down to muscle memory and to a point where you can get this consistently first try but it is worth learning. You save roughly 4s with this first try and each attempt costs about 2.5s so you would still be saving time second try and only be losing around 0.5s to using the white block on the third try. Knowing all this, I would only recommend implementing this into full runs when you can get this 1-in-3 tries every time without fail.
 
+### c-06b
 
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/16.webp)
+
+This uses a fairly easy setup to guarantee landing on the safe ground here that loses 0.2-0.3s to using no setup. As soon as you touch the dash crystal, dash up and hold right and you should land and collect the berry.
+
+## Mirror Temple
+
+### b-06 or "Crouched bubble skip"
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/17.webp)
+
+Utilises the property of being in crouch state when entering bubbles moving you up 2 pixels, which gives you just enough height to grab onto the lip of the wall. An easy way to enter the bubble in crouch state is to just crouch underneath the bubble and jump into it whilst holding down. A good visual cue for when to dash up out of the bubble is when you reach the gold candle on the wall. Once you up dash out of the bubble, you need to wait a millisecond before going for the grab to gain a very small amount of height. If you try to grab the wall as soon as you dash out, you will not reach the wall.
