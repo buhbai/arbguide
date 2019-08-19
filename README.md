@@ -204,11 +204,15 @@ Now that you’re in the bubble, all you have to do is move up with the bubble a
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/21.webp)
 
-This involves a pixel lineup into a demodash through the spike wall to skip the screen almost entirely. To do this, you need to be stand on the far-right edge of the green block, do a maximum height jump and downdash whilst holding grab. This will make you grab the side of the block one pixel above where you want to demodash. From here, release and repress grab quickly to move one pixel down so that you’re now grabbing the wall at this pixel:
+This involves a pixel lineup into a demodash through the spike wall to skip the screen almost entirely. To do this, you need to be stand on the far-right edge of the green block. Getting here consistently is quite finicky if you don't have a setup but luckily there is one. 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/30.png)
+
+Climb up to this point of the wall here and dash left twice, then fastfall. This will let you land on the right-side of the block every time. Once you land, downdash, what this does is prevents you from sliding to the left slightly when you try to jump afterwards. From here, do a maximum height jump and downdash whilst holding grab. This will allow you grab the side of the block one pixel above where you want to demodash. From here, release and repress grab quickly to move one pixel down so that you’re now grabbing the wall at this pixel:
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/22.png)
 
-Then it’s simply demodashing to the right with the demo button that has dash bound to it also.
+Then it’s simply demodashing to the right. For this demo dash I recommend binding a different button to down + dash. This is because if you do it with a normal demo button, i.e. just another down input, you risk pressing the demo button before the dash and sliding down the wall before actually dashing, therefore rendering your pixel lineup obsolete. With a button bound to down and dash, all you need to do once you're grabbing the side of the green block is to hold right and press that button and it does the work for you.
 
 ## Core
 
