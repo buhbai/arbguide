@@ -2,29 +2,29 @@
 _by buhbai_
 ## Table of Contents
 - [Introduction](#introduction)
-  - Berry mechanics
-  - Heart route
-- Forsaken City
-  - 6a to s0 or "Coffee Shop Jump"
-  - 9c
-- Old Site
-  - end_3c
-- Celestial Resort
-  - 12-x to 13-b
-  - 11-c or "Resort heart checkpoint"
-  - 04-d to 02-d or "Shaft skip route"
-- Golden Ridge
-  - b-sec(2) or "Blockless heart"
-  - c_06b
-- Mirror Temple
-  - b-06 or "Crouched bubble skip"
-  - d-15 (Upper Area)
-  - d-04 (Lower Area)
-- The Summit
-  - a-02b
-- Core
-  - b-01 to b-06 or "Ice Skip"
-  - c-00b
+  - [Berry mechanics](#berry-mechanics)
+  - [Heart route](#heart-route)
+- [Forsaken City](#forsaken-city)
+  - [6a to s0 or "Coffee Shop Jump"](#6a-to-s0-or-coffee-shop-jump)
+  - [9c](#9c)
+- [Old Site](#old-site)
+  - [end_3c](#end_3c)
+- [Celestial Resort](#celestial-resort)
+  - [12-x to 13-b](#12-x-to-13-b)
+  - [11-c or "Resort heart checkpoint"](#11-c-or-resort-heart-checkpoint)
+  - [04-d to 02-d or "Shaft skip route"](#04-d-to-02-d-or-shaft-skip-route)
+- [Golden Ridge](#golden-ridge)
+  - [b-sec(2) or "Blockless heart"](#b-sec2-or-blockless-heart)
+  - [c_06b](#c-06b)
+- [Mirror Temple](#mirror-temple)
+  - [b-06 or "Crouched bubble skip"](#b-06-or-crouched-bubble-skip)
+  - [d-15 (Upper Area)](#d-15-upper-area)
+  - [d-04 (Lower Area)](#d-04-lower-area)
+- [The Summit](#the-summit)
+  - [a-02b](#a-02b)
+- [Core](#core)
+  - [b-01 to b-06 or "Ice Skip"](#b-01-to-b-06-or-ice-skip)
+  - [c-00b](#c-00b)
   
 ## Introduction
 This guide will be giving a detailed rundown on the advanced strategies that aren’t fully self explanatory in the ARB run. It is not a full route guide, you can watch any top runner’s PB for that. This is aimed at runners that already have experience with the game itself, either with ILing or with running Any%, therefore I will not be explaining the speedtech and basic mechanics of the game and assume you know all of that already.
