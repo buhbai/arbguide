@@ -1,7 +1,7 @@
 # Celeste ARB - Advanced Strat Guide
 _by buhbai_
 ## Table of Contents
-- Introduction
+- ![Introduction](https://github.com/buhbai/arbguide#table-of-contents)
   - Berry mechanics
   - Heart route
 - Forsaken City
@@ -242,9 +242,11 @@ On entry, you want to wavedash through the dash crystal to retain both of your d
 
 Once you grab the berry, you want to fall onto the side of the right bumper and boost off of it. If you do this successfully, you should get decently far to the left of the screen. At that point, you have a dash still that you use to diagonal dash to the left bumper. You can either bounce on the left side of the bumper which will be the faster but riskier option or bounce on the top of the bumper and go over the top of the left part. Going over the top is a lot safer but about half a second slower so only go under if you're comfortable with it as dying there is quite costly.
 
-## Closing words
+## Closing words and credits
 
 Hopefully this has been useful to you and has made the majority of these strats easier to learn and implement into your own runs. Good luck!
+
+Thanks to czyys' dustforce guide for this format and using github in general. A lot beter than google docs.
 
 
 
