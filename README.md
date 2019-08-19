@@ -1,1 +1,1 @@
-# bubberducky
+# Celeste ARB - Advanced Strat Guide
