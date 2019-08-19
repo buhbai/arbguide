@@ -11,7 +11,7 @@ _by buhbai_
   - end_3c
 - Celestial Resort
   - 12-x to 13-b
-  - 11-c or "Resort heart"
+  - 11-c or "Resort heart checkpoint"
   - 04-d to 02-d or "Shaft skip route"
 - Golden Ridge
   - b-sec(2) or "Blockless heart"
@@ -121,3 +121,8 @@ This cycle skip up to the heart is tricky if you don’t know what to look out f
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/10.png)
 
+### 11-c or "Resort heart checkpoint"
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/11.webp)
+
+When going backwards through the exit of the Resort heart room, the game does not have a proper checkpoint set for this entrance and will instead place you in the upper half of this room, which happens to be an early section of the books path.  This skips a couple of screens, most importantly another visit to the main hub room and a conversation with Oshiro.  Trivially easy to execute, all you need to do is jump or dash back into the previous room after exiting the heart room before the path can close behind you, and then save and quit during the heart collection cutscene (for full clear ILs, use a deathwarp instead - for full game runs, save and quitting saves ingame time over the deathwarp).  As a result, be mindful that the common Huge Mess order for ARB is Chests -> Towels -> Books as opposed to Chests -> Books -> Towels in any%.
