@@ -1,5 +1,8 @@
 # Celeste ARB - Advanced Strat Guide
 _by buhbai_
+
+![Image of header](https://github.com/buhbai/arbguide/blob/master/Images/32.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
   - [Berry mechanics](#berry-mechanics)
@@ -261,5 +264,7 @@ Once you grab the berry, you want to fall onto the side of the right bumper and 
 ## Closing words and credits
 
 Hopefully this has been useful to you and has made the majority of these strats easier to learn and implement into your own runs. Good luck!
+
+Thanks to Evansfight for proof reading.
 
 Thanks to czyys' dustforce guide for this format and using github in general. A lot better to format than google docs.
