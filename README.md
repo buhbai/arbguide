@@ -206,7 +206,7 @@ Now that you’re in the bubble, all you have to do is move up with the bubble a
 
 This involves a pixel lineup into a demodash through the spike wall to skip the screen almost entirely. To do this, you need to be stand on the far-right edge of the green block. Getting here consistently is quite finicky if you don't have a setup but luckily there is one. 
 
-![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/30.png)
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/31.png)
 
 Climb up to this point of the wall here and dash left twice, then fastfall. This will let you land on the right-side of the block every time. Once you land, downdash, what this does is prevents you from sliding to the left slightly when you try to jump afterwards. From here, do a maximum height jump and downdash whilst holding grab. This will allow you grab the side of the block one pixel above where you want to demodash. From here, release and repress grab quickly to move one pixel down so that you’re now grabbing the wall at this pixel:
 
