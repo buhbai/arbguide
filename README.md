@@ -230,6 +230,22 @@ There are some scenarios that you need to keep in mind when attempting this stra
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/27.webp)
 
+Reacting to whether you have too much, too little or just the right amount of speed is the key to being consistent at ice skip, and you will only truly grasp that with a lot of practice.
+
+### c-00b
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/28.webp)
+
+A fairly frustrating screen for new players, this is a very finicky screen that takes a decent amount of knowledge to get consistent at. 
+
+On entry, you want to wavedash through the dash crystal to retain both of your dashes. This should give you enough distance to land on top of the center bumper. Bounce on this bumper once more on the top right of it and up right dash into the opening where the berry is. If you don’t get enough distance off of the second bounce, be ready to cornerjump out of the diagonal dash. If you get too much distance, be ready to up dash into the opening.
+
+Once you grab the berry, you want to fall onto the side of the right bumper and boost off of it. If you do this successfully, you should get decently far to the left of the screen. At that point, you have a dash still that you use to diagonal dash to the left bumper. You can either bounce on the left side of the bumper which will be the faster but riskier option or bounce on the top of the bumper and go over the top of the left part. Going over the top is a lot safer but about half a second slower so only go under if you're comfortable with it as dying there is quite costly.
+
+## Closing words
+
+Hopefully this has been useful to you and has made the majority of these strats easier to learn and implement into your own runs. Good luck!
+
 
 
 
