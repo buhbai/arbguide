@@ -77,7 +77,21 @@ A question that comes up a lot is “So when should I be playing 6B?” I would 
 
 There are four things to keep in mind and to look out for when attempting this:
 
-1.  Line yourself up with the corner in the texture of the ground here:
+1. Line yourself up with the corner in the texture of the ground here:
 
 ![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/2.png)
+
+2. Do a late jump with coyote frames to get more height by the time you reach the transition edge.
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/3.png)
+
+3. Dash diagonally upright when you reach the corner of the coffee shop.
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/4.png)
+
+4. Wait a tiny bit after the transition to use the momentum of the diagonal dash, moving you up and right very slightly. Up dash once this speed drops off.
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/5.webp)
+
+
 
