@@ -74,3 +74,10 @@ A question that comes up a lot is “So when should I be playing 6B?” I would 
 **6a to s0 or "Coffee Shop Jump"**
 
 ![Image of Coffee Shop Jump](https://github.com/buhbai/arbguide/blob/master/Images/1.webp)
+
+There are four things to keep in mind and to look out for when attempting this:
+
+1.  Line yourself up with the corner in the texture of the ground here:
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/2.png)
+
