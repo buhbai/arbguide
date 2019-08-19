@@ -163,7 +163,7 @@ Even with these pointers, it will take a lot of practice to get it down to muscl
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/29.webp)
 
-Utilises a tech that's only really used in TASing called a "ceiling pop", which enables you to essentially climbjump off the bottom of a wall just after slipping off of it, giving you a tiny bit of distance and height. 
+Utilises a tech that's only really used in TAS called a "ceiling pop", which enables you to essentially climbjump off the bottom of a wall just after slipping off of it, giving you a tiny bit of distance and height. 
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/30.png)
 
