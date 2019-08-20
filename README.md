@@ -169,7 +169,7 @@ Utilises a tech that's only really used in TAS called a "ceiling pop", which ena
 
 To do this, get into the little crevice of the wall as shown here and climbjump up once so that you are flush with the top of it. What this does is reset your subpixel to .00 so that the ceiling pop doesn't get affected by subpixels. Once you're at the top, simply let go of grab and hold right, making you slide down the wall slowly. Finally, input a climbjump when you're near the bottom of the wall and you should be able to successfully perform a ceiling pop. 
 
-Once you get the hang of that, it's the easy part. The hard part is the diagonal dash into cornerjump after the ceiling pop, which is a 2-frame window with a diagonal dash and a 4-frame window with a diagonal demo dash, sounds difficult but it is easier than it sounds as you're approaching that window in the same way every time so there are no variables affecting you leading up to it really, it just becomes a timing issue which you can get consistent at. 
+Once you get the hang of that, it's the easy part. The hard part is the diagonal dash into cornerjump after the ceiling pop, which is a 2-frame window with a diagonal dash and a 4-frame window with a diagonal demo dash. Sounds difficult but it is easier than it sounds as you're approaching that window in the same way every time so there are no variables affecting you leading up to it really, it just becomes a timing issue which you can get consistent at. 
 
 This saves 4-5s in ARB roughly, depending on what your previous strat was. This also goes around even/loses 1s second try depending on where you fail the strat so if you can get it 50% of the time at least then I would say it is worth considering implementing. 
 
