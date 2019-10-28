@@ -123,6 +123,8 @@ This cycle skip up to the heart is tricky if you don’t know what to look out f
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/10.png)
 
+This is a good visual cue so you don’t up hyper too early or too late. From here, just use the momentum of the up hyper to get up to the second checkpoint. Don’t press left at any point in this cycle skip, it is not needed and will just complicate things. Once you get to the second chokepoint, climbjump up on the nub on the right then walljump off the left wall. This should get you past the dustbunny cycle and up to the platform at the top of the screen, saving 0.9s or so.
+
 ### 11-c or "Resort heart checkpoint"
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/11.webp)
