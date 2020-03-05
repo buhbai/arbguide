@@ -74,6 +74,9 @@ A question that comes up a lot is “So when should I be playing 6B?” I would 
 ## Forsaken City
 
 ### 6a to s0 or "Coffee Shop Jump"
+There are two ways to do this strat now, one with a demohyper-bunnyhop, one with a dashjump, the former being the faster of the two and, with practice, the easier one.
+
+I'll cover the dashjump strat first though.
 
 ![Image of Coffee Shop Jump](https://github.com/buhbai/arbguide/blob/master/Images/1.webp)
 
@@ -92,6 +95,24 @@ There are four things to keep in mind and to look out for when attempting this:
 ![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/4.png)
 
 4. Wait a tiny bit after the transition to use the momentum of the diagonal dash, moving you up and right very slightly. Up dash once this speed drops off.
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/5.webp)
+
+Now I'll cover the demohyper-bunnyhop strat.
+
+![Image of Coffee Shop Jump](https://github.com/buhbai/arbguide/blob/master/Images/30.webp)
+
+There are three things to keep in mind and to look out for when attempting this:
+
+1. Up hyper off the very bottom of the wall here, which will line you up for the demo hyper perfectly: 
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/29.png)
+
+2. Dash diagonally upright when you reach the corner of the coffee shop.
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/4.png)
+
+3. Wait a tiny bit after the transition to use the momentum of the diagonal dash, moving you up and right very slightly. Up dash once this speed drops off.
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/5.webp)
 
@@ -114,6 +135,13 @@ To line this spike cornerjump correctly, you need to jump off the edge of this p
 In order to set this up quickly from entry, from the first up hyper, go neutral and then up hyper off the left wall. Neutral off of this up hyper also and then walljump off the right wall and hold left. This is shown in the input display. Doing all of this correctly will line you up to jump off the edge of the platform when you land on the next screen, thus setting up the spike cornerjump itself.
 
 ## Celestial Resort
+
+### 05-c to 07-b or "Jasig"
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/31.webp)
+
+Very feel-based strat, not really many cues to work with unfortunately but it saves 3 seconds so I'll try point out a few things to look out for. So the strat consists of a wavedash into two consecutive cornerboosts (I would recommend cornerboosting off the first corner then holding jump and cornerboosting off the second corner with your second jump button) and then an ultra, a bunnyhop and finally a coyote bunnyhop in the next screen. Getting the right speed out of the double cornerboost comes with practice and there aren't any cues for this, at least I don't use any nor know of any. Likewise, the ultra timing doesn't have a cue but thankfully, it is fairly lenient. A lot of the time, failing the strat will involve jumping too early out of the ultra and jumping off the laundry block that overhangs on the exit, which means the window for the jump input is smaller than it looks as there's less of a window for it to be buffered. Lastly, you have to jump off of coyote frames in the next screen (and stay crouched) in order to get enough distance to clear the rest of the screen.
+
 
 ### 12-x to 13-b
 
