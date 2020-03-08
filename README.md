@@ -23,6 +23,7 @@ _by buhbai_
   - [b-08 or "First blockless"](#b-08-or-first-blockless)
   - [c_06b](#c-06b)
 - [Mirror Temple](#mirror-temple)
+  - [a-06](#a-06)
   - [b-06 or "Crouched bubble skip"](#b-06-or-crouched-bubble-skip)
   - [d-15 (Upper Area)](#d-15-upper-area)
   - [d-04 (Lower Area)](#d-04-lower-area)
