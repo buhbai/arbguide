@@ -221,7 +221,23 @@ This saves 4-5s in ARB roughly, depending on what your previous strat was. This 
 
 This uses a fairly easy setup to guarantee landing on the safe ground here that loses 0.2-0.3s to using no setup. As soon as you touch the dash crystal, dash up and hold right and you should land and collect the berry.
 
+### c-08
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/33.webp)
+
+The cycle skip in this screen looks like an overly precise one but with the right cue, it becomes a fairly trivial screen and saves quite a large chunk of time for how simple of a screen it is due to wind cycles. All the strat consists of is entering the second bubble when the wind cycle is just starting up again for the second cycle and buffering your dashes out of it. From there, hold left and jump off the corner and you'll have successfully saved 2.5s~ over the next fastest strat.
+
 ## Mirror Temple
+
+### a-06
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/34.webp)
+
+Quite an unintuitive strat for how simple and easy it looks but deceivingly difficult if you don't know what you're doing. After activating the button, do a grounded ultra then hold just down. 
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/36.png)
+
+Once you get to around the corner of the white outline here, diagonal dash into the dashblock, go directionless and jump late and you won't get flung into any of the spikes and save around .3s.
 
 ### b-06 or "Crouched bubble skip"
 
