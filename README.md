@@ -22,6 +22,7 @@ _by buhbai_
   - [b-sec(2) or "Blockless heart"](#b-sec2-or-blockless-heart)
   - [b-08 or "First blockless"](#b-08-or-first-blockless)
   - [c_06b](#c-06b)
+  - [c-08](#c-08)
 - [Mirror Temple](#mirror-temple)
   - [a-06](#a-06)
   - [b-06 or "Crouched bubble skip"](#b-06-or-crouched-bubble-skip)
