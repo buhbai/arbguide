@@ -266,7 +266,7 @@ Utilises the property of being in crouch state when entering bubbles moving you 
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/37.webp)
 
-This strat is a lot easier if you walk on entry, due to seeker manipulation malarkey. Upon entering the screen, down dash here: 
+This strat is a lot easier if you walk on entry, due to seeker manipulation malarkey. Upon entering the screen, down dash here, at the rightmost point of the red vine in the background: 
 
 ![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/38.png)
 
