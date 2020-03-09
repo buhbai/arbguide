@@ -268,7 +268,7 @@ Utilises the property of being in crouch state when entering bubbles moving you 
 
 This strat is a lot easier if you walk on entry, due to seeker manipulation malarkey. Upon entering the screen, down dash here: 
 
-![Image of cue]![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/38.png)
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/38.png)
 
 Once you land on the platform, reverse hyper. The reverse hyper is important because once you land here, to get the seeker to dash to the top coin instead of at you, you need to wait on the platform for a certain amount of time, and that amount of time just so happens to be the time it takes to perform a reverse hyper. Alternatively, if you aren't comfortable with reverse hypers yet, you can just wait for a little bit then do a hyper but a reverse hyper also helps with making the cornerboost afterwards more lenient.
 
