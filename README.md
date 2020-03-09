@@ -9,6 +9,7 @@ _by buhbai_
   - [Heart route](#heart-route)
 - [Forsaken City](#forsaken-city)
   - [6a to s0 or "Coffee Shop Jump"](#6a-to-s0-or-coffee-shop-jump)
+  - [s1 or "City heart"](#s1-or-city-heart)
   - [9c](#9c)
 - [Old Site](#old-site)
   - [end_3c](#end_3c)
@@ -26,6 +27,7 @@ _by buhbai_
 - [Mirror Temple](#mirror-temple)
   - [a-06](#a-06)
   - [b-06 or "Crouched bubble skip"](#b-06-or-crouched-bubble-skip)
+  - [c-10](#c-10)
   - [d-15 (Upper Area)](#d-15-upper-area)
   - [d-04 (Lower Area)](#d-04-lower-area)
 - [The Summit](#the-summit)
@@ -33,6 +35,7 @@ _by buhbai_
 - [Core](#core)
   - [b-01 to b-06 or "Ice Skip"](#b-01-to-b-06-or-ice-skip)
   - [c-00b](#c-00b)
+- [Closing words and credits](#closing-words-and-credits)
   
 ## Introduction
 This guide will be giving a detailed rundown on the advanced strategies that aren’t fully self explanatory in the ARB run. It is not a full route guide, you can watch any top runner’s PB for that. This is aimed at runners that already have experience with the game itself, either with ILing or with running Any%, therefore I will not be explaining the speedtech and basic mechanics of the game and assume you know all of that already.
@@ -119,6 +122,18 @@ There are three things to keep in mind and to look out for when attempting this:
 3. Wait a tiny bit after the transition to use the momentum of the diagonal dash, moving you up and right very slightly. Up dash once this speed drops off.
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/5.webp)
+
+### s1 or "City heart"
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/39.webp)
+
+This strat isn't necessarily unintuitive or difficult enough to to be included into the guide since I think one can understand it from just watching a run but there are some little quirks about it that aren't obvious at all that may end up making this not work. For instance, if you buffer the dashjumps for this strat (what I mean by this is buffer the jump input after the dash), it won't count as a left dash for the heart code. Knowing this, we want to jump late to prevent this from happening, like so: 
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/40.png)
+
+The other little thing to consider for this strat is the last dash at the end; if you do the upleft dash too early/too far to the right of the screen, it won't count towards the heart code either. This is because the camera needs to scroll to the left a certain amount before the last dash can count. A good cue to use for this strat in particular is this: 
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/41.png)
 
 ### 9c
 
@@ -246,6 +261,16 @@ Once you get to around the corner of the white outline here, diagonal dash into 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/17.webp)
 
 Utilises the property of being in crouch state when entering bubbles moving you up 2 pixels, which gives you just enough height to grab onto the lip of the wall. An easy way to enter the bubble in crouch state is to just crouch underneath the bubble and jump into it whilst holding down. A good visual cue for when to dash up out of the bubble is when you reach the gold candle on the wall. Once you up dash out of the bubble, you need to wait a millisecond before going for the grab to gain a very small amount of height. If you try to grab the wall as soon as you dash out, you will not reach the wall.
+
+### c-10
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/37.webp)
+
+This strat is a lot easier if you walk on entry, due to seeker manipulation malarkey. Upon entering the screen, down dash here: 
+
+![Image of cue]![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/38.png)
+
+Once you land on the platform, reverse hyper. The reverse hyper is important because once you land here, to get the seeker to dash to the top coin instead of at you, you need to wait on the platform for a certain amount of time, and that amount of time just so happens to be the time it takes to perform a reverse hyper. Alternatively, if you aren't comfortable with reverse hypers yet, you can just wait for a little bit then do a hyper but a reverse hyper also helps with making the cornerboost afterwards more lenient.
 
 ### d-15 (Upper Area) 
 
