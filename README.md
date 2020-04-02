@@ -306,6 +306,12 @@ Climb up to this point of the wall here and dash left twice, then fastfall. This
 
 Then it’s simply demodashing to the right. For this demo dash I recommend binding a different button to down + dash. This is because if you do it with a normal demo button, i.e. just another down input, you risk pressing the demo button before the dash and sliding down the wall before actually dashing, therefore rendering your pixel lineup obsolete. With a button bound to down and dash, all you need to do once you're grabbing the side of the green block is to hold right and press that button and it does the work for you.
 
+### d-04
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/42.webp)
+
+The demodash on this screen is pretty finnicky and wouldn't be surprised if top runners couldn't get this down consistently but throwing this in here anyway. Extend the hyper a bit on the previous screen then the wavedash on the next screen has to have a very late jump so that you can beat the moving dustbunny cycle. Kind of unintuitive but it saves about 0.8s so it's quite a large timesave.
+
 ## Core
 
 ### b-01 to b-06 or "Ice Skip"
