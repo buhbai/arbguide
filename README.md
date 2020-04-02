@@ -32,6 +32,7 @@ _by buhbai_
   - [d-04 (Lower Area)](#d-04-lower-area)
 - [The Summit](#the-summit)
   - [a-02b](#a-02b)
+  - [d-04](#d-04)
 - [Core](#core)
   - [b-01 to b-06 or "Ice Skip"](#b-01-to-b-06-or-ice-skip)
   - [c-00b](#c-00b)
