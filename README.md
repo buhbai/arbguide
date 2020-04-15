@@ -18,7 +18,6 @@ _by buhbai_
   - [12-x to 13-b](#12-x-to-13-b)
   - [11-c or "Resort heart checkpoint"](#11-c-or-resort-heart-checkpoint)
   - [04-d to 02-d or "Shaft skip route"](#04-d-to-02-d-or-shaft-skip-route)
-  - [roof03](#roof03)
 - [Golden Ridge](#golden-ridge)
   - [b-sec(2) or "Blockless heart"](#b-sec2-or-blockless-heart)
   - [b-08 or "First blockless"](#b-08-or-first-blockless)
@@ -188,16 +187,6 @@ Shaft skip can be implemented into the ARB run by collecting the two berries loc
 I wouldn’t recommend using shaft skip in ARB unless you’re very confident in pulling it off first try with a decently quick setup every run since if you die once at the skip or take too long to setup the skip, you will instantly start losing time compared to a far easier route overall. 
 
 It’s also not as cool as the route with the quad hyper screen :)
-
-### roof03
-
-![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/32.webp)
-
-The top route of this screen is far more difficult relatively to going underneath and only saves around .3s but there are some cues to help here. 
-
-![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/35.png)
-
-After grabbing the key coin, fall so you are directly underneath it then do a tight hyper bunnyhop and then diagonal dash upright whilst still crouched. The hyper bunnyhop has to be tight to get enough height to clear the dustbunnies when you need to dash.
 
 ## Golden Ridge
 
