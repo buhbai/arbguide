@@ -300,7 +300,11 @@ Then it’s simply demodashing to the right. For this demo dash I recommend bind
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/42.webp)
 
-The demodash on this screen is pretty finnicky and wouldn't be surprised if top runners couldn't get this down consistently but throwing this in here anyway. Extend the hyper a bit on the previous screen then the wavedash on the next screen has to have a very late jump so that you can beat the moving dustbunny cycle. Kind of unintuitive but it saves about 0.8s so it's quite a large timesave.
+The demodash on this screen is pretty finnicky and wouldn't be surprised if top runners couldn't get this down consistently but throwing this in here anyway. Extend the hyper a bit on the previous screen then the wavedash on the next screen has to have a very late jump so that you can beat the moving dustbunny cycle. The visual cue I used for when to jump before the demodash was this skull in the background: 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/43.png)
+
+Kind of unintuitive but it saves about 0.8s so it's quite a large timesave, and dying once then getting this on the death cycle only loses around 1.7s to not going for this at all in the first place. Moreover, the death cycle is a lot easier than the entry since there's no dustbunny cycle to take into consideration so it only requires an extended hyper into buffered demo dash.
 
 ## Core
 
