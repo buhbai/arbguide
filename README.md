@@ -135,6 +135,10 @@ The other little thing to consider for this strat is the last dash at the end; i
 
 ![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/41.png)
 
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/44.webp)
+
+Alternative strat for this room that breaks even to the strat above on average. Instead of dashjumping on the first metal block, you demohyper instead to make it still count as a left dash input but you get the speed of a hyper.
+
 ### 9c
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/6.webp)
