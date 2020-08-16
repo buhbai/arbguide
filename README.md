@@ -139,6 +139,14 @@ The other little thing to consider for this strat is the last dash at the end; i
 
 Alternative strat for this room that breaks even to the strat above on average. Instead of dashjumping on the first metal block, you demohyper instead to make it still count as a left dash input but you get the speed of a hyper.
 
+### 6b to 7z
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/46.webp)
+
+Another strat utilising a visual cue, this time an object in the background. Here, we dash upright when we're around the traffic light to be able to cornerjump in the next screen and save a dash to break the ice wall quicker. 
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/59.png)
+
 ### 9c
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/6.webp)
