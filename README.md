@@ -30,8 +30,10 @@ _by buhbai_
   - [a-09](#a-09)
   - [b-sec(2) or "Blockless heart"](#b-sec2-or-blockless-heart)
   - [b-08 or "First blockless"](#b-08-or-first-blockless)
+  - [c-00 or "Under trail"](#c-00-or-under-trail)
   - [c_06b](#c-06b)
   - [c-08](#c-08)
+  - [d-07](#d-07)
 - [Mirror Temple](#mirror-temple)
   - [a-06](#a-06)
   - [b-06 or "Crouched bubble skip"](#b-06-or-crouched-bubble-skip)
@@ -310,6 +312,18 @@ Once you get the hang of that, it's the easy part. The hard part is the diagonal
 
 This saves 4-5s in ARB roughly, depending on what your previous strat was. This also goes around even/loses 1s second try depending on where you fail the strat so if you can get it 50% of the time at least then I would say it is worth considering implementing. 
 
+### c-00 or "Under trail"
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/57.webp)
+
+A really difficult strat this one, I wouldn't recommend implementing this unless you're going for world record to be honest but have at it and give it a go if you want to see how it feels or just want to play around with the strat. Saves up to .9 but takes a lot of practice to get comfortable with. 
+
+Firstly out of the bubble, you want to upright dash and reverse climbjump to get to the very top of this little indent in the wall, like so:
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/63.png)
+
+From here, you want to neutral jump over the lip and then buffer a full jump to the right; you want to hold right for longer than you think. Once you believe you're able to cornerjump off the next wall over, keep holding jump and right and cornerjump with your second jump button. If you did everything correctly, you should get a cornerjump, which you can then climbjump up the wall and enter the bubble like normal. It's a pretty feel-based strat and you just need to ram your head into it a bunch until you start getting it if you want to use it in runs.
+
 ### c-06b
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/16.webp)
@@ -321,6 +335,12 @@ This uses a fairly easy setup to guarantee landing on the safe ground here that 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/33.webp)
 
 The cycle skip in this screen looks like an overly precise one but with the right cue, it becomes a fairly trivial screen and saves quite a large chunk of time for how simple of a screen it is due to wind cycles. All the strat consists of is entering the second bubble when the wind cycle is just starting up again for the second cycle and buffering your dashes out of it. From there, hold left and jump off the corner and you'll have successfully saved 2.5s~ over the next fastest strat.
+
+### d-07 
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/58.webp)
+
+
 
 ## Mirror Temple
 
