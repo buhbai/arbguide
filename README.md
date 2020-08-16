@@ -18,7 +18,9 @@ _by buhbai_
   - [d4 (Return)](#d4-return)
   - [end_3c](#end_3c)
 - [Celestial Resort](#celestial-resort)
+  - [06-b](#06-b)
   - [05-c to 07-b or "Jasig"](#05-c-to-07-b-or-jasig)
+  - [12-x](#12-x)
   - [12-x to 13-b](#12-x-to-13-b)
   - [11-c or "Resort heart checkpoint"](#11-c-or-resort-heart-checkpoint)
   - [04-d to 02-d or "Shaft skip route"](#04-d-to-02-d-or-shaft-skip-route)
@@ -193,12 +195,33 @@ In order to set this up quickly from entry, from the first up hyper, go neutral 
 
 ## Celestial Resort
 
+### 06-b
+
+There are a number of strats that you can do for this screen that are a little slower than the optimal strat but is a fair bit easier which I'll be covering in this section. The first of which is almost the same as the optimal strat, just a slower entry with a reverse hyper instead of a demohyper. This is .2 slower than optimal.
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/49.webp)
+
+The second one involves a dashjump on entry instead of a hyper into a demohyper then a quick left dash to kill your momentum. This is around .3 slower than optimal.
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/50.webp)
+
+Third strat involves a dashjump on entry like the previous but instead, you dashjump off the first platform with a late jump and hold jump for a decent amount. This is around .4 slower than optimal.
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/51.webp)
+
+Test out all of these and see which you prefer. You want a strat where you consistently do not die over a strat that's a little faster but is more susceptible to dying.
+
 ### 05-c to 07-b or "Jasig"
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/31.webp)
 
 Very feel-based strat, not really many cues to work with unfortunately but it saves 3 seconds so I'll try point out a few things to look out for. So the strat consists of a wavedash into two consecutive cornerboosts (I would recommend cornerboosting off the first corner then holding jump and cornerboosting off the second corner with your second jump button) and then an ultra, a bunnyhop and finally a coyote bunnyhop in the next screen. Getting the right speed out of the double cornerboost comes with practice and there aren't any cues for this, at least I don't use any nor know of any. Likewise, the ultra timing doesn't have a cue but thankfully, it is fairly lenient. A lot of the time, failing the strat will involve jumping too early out of the ultra and jumping off the laundry block that overhangs on the exit, which means the window for the jump input is smaller than it looks as there's less of a window for it to be buffered. Lastly, you have to jump off of coyote frames in the next screen (and stay crouched) in order to get enough distance to clear the rest of the screen.
 
+### 12-x
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/52.webp)
+
+Often times when you press the towels button here, you're on the button at different points of it everytime so sometimes, you won't be close enough to do the normal strat which involves a dashjump off of the little ledge to the right here. This helps to circumvent that by retrying as soon as you press the button, which will respawn you on the right. From here, you want to do an uphyper to the left and press right very quickly afterwards. This ends up being same speed to the normal strat.
 
 ### 12-x to 13-b
 
