@@ -14,6 +14,8 @@ _by buhbai_
   - [9c](#9c)
   - [12](#12)
 - [Old Site](#old-site)
+  - [d4 (Entry)](#d4-entry)
+  - [d4 (Return)](#d4-return)
   - [end_3c](#end_3c)
 - [Celestial Resort](#celestial-resort)
   - [05-c to 07-b or "Jasig"](#05-c-to-07-b-or-jasig)
@@ -164,6 +166,20 @@ Pretty simple strat that looks daunting. Walk into the iceblock as it's falling 
 ![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/60.png)
 
 ## Old Site
+
+### d4 (Entry)
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/47.webp)
+
+Uses a demodash or a downright dash when dashing into the dreamblock to retain crouched state and avoid bonking on the little nub sticking out and potentially killing you. This also is a bit faster because you end up higher on the wall.
+
+### d4 (Return)
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/48.webp)
+
+This is pretty lenient but having a visual cue is safer so here it is; you also tend to enter this room with a nonzero amount of berries so you definitely don't want to risk dying. Downleft dash when you reach the green pixels highlighted here:
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/61.png)
 
 ### end_3c
 
