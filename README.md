@@ -24,6 +24,8 @@ _by buhbai_
   - [12-x to 13-b](#12-x-to-13-b)
   - [11-c or "Resort heart checkpoint"](#11-c-or-resort-heart-checkpoint)
   - [04-d to 02-d or "Shaft skip route"](#04-d-to-02-d-or-shaft-skip-route)
+  - [roof03](#roof03)
+  - [roof06](#roof06)
 - [Golden Ridge](#golden-ridge)
   - [b-sec(2) or "Blockless heart"](#b-sec2-or-blockless-heart)
   - [b-08 or "First blockless"](#b-08-or-first-blockless)
@@ -249,7 +251,21 @@ I wouldn’t recommend using shaft skip in ARB unless you’re very confident in
 
 It’s also not as cool as the route with the quad hyper screen :)
 
+### roof03
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/54.webp)
+
+This screen is quite troublesome and quite frankly, pretty annoying when it doesn't go correctly. The strat detailed here, being a climbjump into a reverse dashjump after landing on the spring, is not terribly difficult and also just as fast as a previous strat I found that used going up top after the keycoin rather than below.
+
+### roof06
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/55.webp)
+
+Just say that then: wavedash, wavedash, extended dashjump, uphyper, grab berry, land, hyper to spring, dash right, dash right, hyper.
+
 ## Golden Ridge
+
+###   
 
 ### b-sec(2) or "Blockless heart"
 
