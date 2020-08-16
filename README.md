@@ -342,7 +342,7 @@ The cycle skip in this screen looks like an overly precise one but with the righ
 
 Not a very difficult strat here really but it's kind of risky because you have no real opportunity to collect the berry until the end of the screen here, or the end of the next screen if you want to stay optimal so only go for it if you are confident I would say. You want to hug the left wall after you grab the berry for spacing and to do that, you want to delay your jump input after exiting the bubble initially and neutral jump off of the left wall instead of uphypering. From there, when you reach the bottom of the wall like so:
 
-![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/63.png)
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/64.png)
 
 demodash to the right, turn around and climbjump off the wall, or walljump off the wall, whatever you think is easier. 
 
