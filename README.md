@@ -27,6 +27,7 @@ _by buhbai_
   - [roof03](#roof03)
   - [roof06](#roof06)
 - [Golden Ridge](#golden-ridge)
+  - [a-09](#a-09)
   - [b-sec(2) or "Blockless heart"](#b-sec2-or-blockless-heart)
   - [b-08 or "First blockless"](#b-08-or-first-blockless)
   - [c_06b](#c-06b)
@@ -265,7 +266,17 @@ Just say that then: wavedash, wavedash, extended dashjump, uphyper, grab berry, 
 
 ## Golden Ridge
 
-###   
+### a-09
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/56.webp)
+
+Skipping the wind cycle here saves quite a bit of time and there's a few ways you can accomplish this but I believe this is the simplest and easiest version with a bit of practice. It involves climbing to the top of the suspended wall in the middle, full climbjumping over and turning right at a certain point to barely grab the berry without dying in the process. 
+
+When you reach the x-coordinate of the first wall that jutts out from the ceiling, as shown in the image here: 
+
+![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/62.png)
+
+that's when you want to press right.
 
 ### b-sec(2) or "Blockless heart"
 
