@@ -264,7 +264,7 @@ This screen is quite troublesome and quite frankly, pretty annoying when it does
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/55.webp)
 
-The inputs for this is pretty self-explanatory and simple but the screen is really long and difficult so all I can reasonably say is study the video and practice it a lot. Also, don't be afraid to wait out an Oshiro cycle if you're too slow or you happen to mess up as it's infinitely better than dying and having to do the screen on the death cycle.
+The inputs for this is pretty self-explanatory and simple but the screen is really long and difficult so all I can reasonably say is study the video and practice it a lot. Also, don't be afraid to wait out an Oshiro cycle if you're too slow or you happen to mess up as it's infinitely better than dying and having to do the screen on the death cycle. This saves a little over a second so I definitely think it's something worth considering adding.
 
 ## Golden Ridge
 
