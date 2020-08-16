@@ -153,6 +153,14 @@ Another strat utilising a visual cue, this time an object in the background. Her
 
 In the bottom left of the video (and of every video), I have an input display - left bumper is my demo button. As you can see, I dash right with a normal dash and then demo hyper left. Some people may ask why I wouldn’t just do demo dashes right and left to make it simpler. The reason for this is that you can’t demo dash twice consecutively whilst crouched, you have to wait to uncrouch. This means that you need to do a normal horizontal dash across the platform to regain your dash then quickly demo hyper the other way to avoid either getting a dashjump or having to wait to uncrouch.
 
+### 12
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/45.webp)
+
+Pretty simple strat that looks daunting. Walk into the iceblock as it's falling and start fastfalling when you reach the poster in the background and buffer a jump.
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/60.png)
+
 ## Old Site
 
 ### end_3c
