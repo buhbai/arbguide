@@ -36,16 +36,25 @@ _by buhbai_
   - [d-07](#d-07)
 - [Mirror Temple](#mirror-temple)
   - [a-06](#a-06)
+  - [a-10](#a-10)
+  - [b-17](#b-17)
+  - [b-03](#b-03)
   - [b-06 or "Crouched bubble skip"](#b-06-or-crouched-bubble-skip)
+  - [c-08](#c-08)
   - [c-10](#c-10)
   - [d-15 (Upper Area)](#d-15-upper-area)
   - [d-04 (Lower Area)](#d-04-lower-area)
 - [The Summit](#the-summit)
   - [a-02b](#a-02b)
+  - [d-01c](#d-01c)
   - [d-04](#d-04)
+  - [e-11](#e-11)
+  - [f-05](#f-05)
+  - [g-00b (Flag 21)](#g-00b-flag-21)
 - [Core](#core)
   - [b-01 to b-06 or "Ice Skip"](#b-01-to-b-06-or-ice-skip)
   - [c-00b](#c-00b)
+  - [c-03](#c-03)
 - [Closing words and credits](#closing-words-and-credits)
 - - - -
 ## Introduction
@@ -278,7 +287,7 @@ When you reach the x-coordinate of the first wall that jutts out from the ceilin
 
 ![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/62.png)
 
-that's when you want to press right.
+That's when you want to press right.
 - - - -
 ### b-sec(2) or "Blockless heart"
 
@@ -357,6 +366,24 @@ Quite an unintuitive strat for how simple and easy it looks but deceivingly diff
 ![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/36.png)
 
 Once you get to around the corner of the white outline here, diagonal dash into the dashblock, go directionless and jump late and you won't get flung into any of the spikes and save around .3s.
+- - - -
+### a-10
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/65.webp)
+
+Involves an extended hyper/wavedash and a quick but not buffered ultra. The coyote jump off the dashblock is the hard part and I used two cues for it, one being the sound cue of landing on the block and also this visual cue of where to jump from: 
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/75.png)
+- - - -
+### b-17
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/66.webp)
+
+Fairly difficult strat, mainly the entry is the only hard part. You need to be standing at the far left of the floor before the screen transition, extended dashjump and buffer an upright; the window for this upright is tight. On the seeded berry screen, you want to cornerjump off of the immediate wall hanging over the entrance then climb up until you can walljump off and reach the dashblock with an upright. After landing, you want to extended hyper, and more importantly, jump off of coyote frames with this, like shown here: 
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/76.png)
+
+You want to do this because if you jump early i.e. off of the block, it would count as jumping off of ground which, as I explained at the beginning of the guide, would make you lose your seeds. However, if you jump off of coyote frames, the game would count that as jumping off the air essentially and so you will retain your berry seeds.
 - - - -
 ### b-06 or "Crouched bubble skip"
 
