@@ -385,6 +385,24 @@ Fairly difficult strat, mainly the entry is the only hard part. You need to be s
 
 You want to do this because if you jump early i.e. off of the block, it would count as jumping off of ground which, as I explained at the beginning of the guide, would make you lose your seeds. However, if you jump off of coyote frames, the game would count that as jumping off the air essentially and so you will retain your berry seeds.
 - - - -
+### b-03
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/74.webp)
+
+The demodash through the spikes here is pretty easy as there's a fairly large frame window as long as you're holding jump the whole time during the hyper. There's also a good visual cue for when to demodash - at this candle here:
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/80.png)
+- - - -
+### c-08
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/68.webp)
+
+Hyper before the transition, cornerboost on the lip on the next screen and fast fall onto the 1 tile platform then short hyper off until you're underneath the edge of the platform in the middle of the room like so: 
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/77.png)
+
+This will make it so the seeker dashes into the ground quickly and recover so that they're in line of sight of you sooner than most other cases - saves about .5s.
+- - - -
 ### b-06 or "Crouched bubble skip"
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/17.webp)
