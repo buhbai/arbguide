@@ -485,6 +485,16 @@ What once was a subpixel dependent strat is now just a matter of dashing around 
 
 From here, you want to dash upright and buffer an updash. This will put you in the middle of the transition ready for a transition uphyper. On the next screen, you want to jump but also hold left for the first few frames of the uphyper so that you don't get launched into the wall of spikes on the right but also not to launch into the wall of spikes on the left either. You retain both of your dashes this way and can simply up dash to the top without having to use the bubble from down below two screens.
 - - - -
+### g-00b (Flag 21)
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/72.webp)
+
+After grabbing the berry, grab the very top of the wall and then hold right like shown here:
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/79.png)
+
+This will set you up so you can climbjump off the corner at the bottom and be able to reach the crumble block platform without using the spring, saving a few milliseconds if done well.
+- - - -
 ## Core
 
 ### b-01 to b-06 or "Ice Skip"
