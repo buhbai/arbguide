@@ -124,7 +124,7 @@ There are four things to keep in mind and to look out for when attempting this:
 4. Wait a tiny bit after the transition to use the momentum of the diagonal dash, moving you up and right very slightly. Up dash once this speed drops off.
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/5.webp)
-
+- - - -
 Now I'll cover the demohyper-bunnyhop strat.
 
 ![Image of Coffee Shop Jump](https://github.com/buhbai/arbguide/blob/master/Images/30.webp)
@@ -453,7 +453,7 @@ Climb up to this point of the wall here and dash left twice, then fastfall. This
 ![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/22.png)
 
 Then it’s simply demodashing to the right. For this demo dash I recommend binding a different button to down + dash. This is because if you do it with a normal demo button, i.e. just another down input, you risk pressing the demo button before the dash and sliding down the wall before actually dashing, therefore rendering your pixel lineup obsolete. With a button bound to down and dash, all you need to do once you're grabbing the side of the green block is to hold right and press that button and it does the work for you.
-
+- - - -
 The second method being doing a timed downright into a buffered demodash out of a max height jump like this:
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/82.webp)
