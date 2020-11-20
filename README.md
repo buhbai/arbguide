@@ -459,12 +459,6 @@ Then it’s simply demodashing to the right. For this demo dash I recommend bind
 
 Falling through the dustbunny floor here is subpixel precise and to be frank, I couldn't get it to be completely consistent myself but I found this to be the best setup. After landing in the little alcove on the far right of the room, dash left then dash left again twice whilst staying neutral. Once you land on the lowering platform, short hyper and hold jump until you reach the left wall. From here, you want to dash downleft and grab the wall, then hold right and let go of the wall. If it's all done correctly, you should fall through the dustfloor and save about 1.3s or so over going for the bottom berry first.
 - - - -
-### e-11
-
-![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/70.webp)
-
-Another subpixel precise strat here, this one being a lot more consistent than the previous one though. After entering the screen, you want to crouchjump to the left wall and hold jump until Madeline auto-adjusts to the top of the wall. This sets up your subpixel to one that works for the rest of the strat. From here, jump to the nook in the wall to your right, where you'll now be hanging off the bottom pixel, allowing you to walljump off and then cornerjump with your second jump button off of the corner immediately after that. You'll retain your two dashes this way and be able to get to the seeded screen without using the block. Altogether this saves around 2s so it's quite substantial.
-- - - -
 ### d-04
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/42.webp)
@@ -474,6 +468,22 @@ The demodash on this screen is pretty finnicky and wouldn't be surprised if top 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/43.png)
 
 Kind of unintuitive but it saves about 0.8s so it's quite a large timesave, and dying once then getting this on the death cycle only loses around 1.7s to not going for this at all in the first place. Moreover, the death cycle is a lot easier than the entry since there's no dustbunny cycle to take into consideration so it only requires an extended hyper into buffered demo dash.
+- - - -
+### e-11
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/70.webp)
+
+Another subpixel precise strat here, this one being a lot more consistent than the previous one though. After entering the screen, you want to crouchjump to the left wall and hold jump until Madeline auto-adjusts to the top of the wall. This sets up your subpixel to one that works for the rest of the strat. From here, jump to the nook in the wall to your right, where you'll now be hanging off the bottom pixel, allowing you to walljump off and then cornerjump with your second jump button off of the corner immediately after that. You'll retain your two dashes this way and be able to get to the seeded screen without using the block. Altogether this saves around 2s so it's quite substantial.
+- - - -
+### f-05
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/71.webp)
+
+What once was a subpixel dependent strat is now just a matter of dashing around the middle of the screen transition. This strat saves around 4.6s so it's the biggest skip in the level. The dash through the transition is supposedly frame perfect but with a visual cue, it feels very consistent to me. After entering the bubble, go upleft until you reach this vine here: 
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/78.png)
+
+From here, you want to dash upright and buffer an updash. This will put you in the middle of the transition ready for a transition uphyper. On the next screen, you want to jump but also hold left for the first few frames of the uphyper so that you don't get launched into the wall of spikes on the right but also not to launch into the wall of spikes on the left either. You retain both of your dashes this way and can simply up dash to the top without having to use the bubble from down below two screens.
 - - - -
 ## Core
 
@@ -487,7 +497,7 @@ Wait for the fire core block to wind up then reverse hyper to get the full speed
 
 Once you cornerboost, you want to ultra around where the second dash crystal is, since that's usually when you're at the apex of the bunnyhop: 
 
-![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/24.png)
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/24.png)
 
 If you do it all correctly, you should bunnyhop in the third screen (b-06) and be able to grab the far-left wall. From here, neutral jump/climb up to around the height of where the berry is like so: 
 
