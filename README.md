@@ -453,6 +453,12 @@ Climb up to this point of the wall here and dash left twice, then fastfall. This
 
 Then it’s simply demodashing to the right. For this demo dash I recommend binding a different button to down + dash. This is because if you do it with a normal demo button, i.e. just another down input, you risk pressing the demo button before the dash and sliding down the wall before actually dashing, therefore rendering your pixel lineup obsolete. With a button bound to down and dash, all you need to do once you're grabbing the side of the green block is to hold right and press that button and it does the work for you.
 - - - -
+### d-01c
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/21.webp)
+
+Falling through the dustbunny floor here is subpixel precise and to be frank, I couldn't get it to be completely consistent myself but I found this to be the best setup. After landing in the little alcove on the far right of the room, dash left then dash left again twice whilst staying neutral. Once you land on the lowering platform, short hyper and hold jump until you reach the left wall. From here, you want to dash downleft and grab the wall, then hold right and let go of the wall. If it's all done correctly, you should fall through the dustfloor and save about 1.3s or so over going for the bottom berry first.
+- - - -
 ### d-04
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/42.webp)
