@@ -440,18 +440,29 @@ Now that you’re in the bubble, all you have to do is move up with the bubble a
 ## The Summit
 
 ### a-02b
+Two methods to do this demodash, the first being grabbing the side of the wall.
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/21.webp)
 
 This involves a pixel lineup into a demodash through the spike wall to skip the screen almost entirely. To do this, you need to be stand on the far-right edge of the green block. Getting here consistently is quite finicky if you don't have a setup but luckily there is one. 
 
-![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/31.png)
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/31.png)
 
 Climb up to this point of the wall here and dash left twice, then fastfall. This will let you land on the right-side of the block every time. Once you land, downdash, what this does is prevents you from sliding to the left slightly when you try to jump afterwards. From here, do a maximum height jump and downdash whilst holding grab. This will allow you grab the side of the block one pixel above where you want to demodash. From here, release and repress grab quickly to move one pixel down so that you’re now grabbing the wall at this pixel:
 
-![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/22.png)
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/22.png)
 
 Then it’s simply demodashing to the right. For this demo dash I recommend binding a different button to down + dash. This is because if you do it with a normal demo button, i.e. just another down input, you risk pressing the demo button before the dash and sliding down the wall before actually dashing, therefore rendering your pixel lineup obsolete. With a button bound to down and dash, all you need to do once you're grabbing the side of the green block is to hold right and press that button and it does the work for you.
+
+The second method being doing a timed downright into a buffered demodash out of a max height jump like this:
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/82.webp)
+
+Same as the other strat to begin with, climbing to that certain point of the rightmost wall then dashing left twice and fastfalling, only this time, you want to buffer a jump once you land. Afterwards, when Madeline reaches the gap between these two green streaks in the background crystal, this is when you want to dash downright:
+
+![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/83.png)
+
+The frame window for this isn't that small so with a bit of practice, you should be getting this consistent. Personally, I found this to be more consistent than the former strat and it's about .3 faster so if you can make this work, you should use it.
 - - - -
 ### d-01c
 
