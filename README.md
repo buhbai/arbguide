@@ -455,9 +455,15 @@ Then it’s simply demodashing to the right. For this demo dash I recommend bind
 - - - -
 ### d-01c
 
-![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/21.webp)
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/69.webp)
 
 Falling through the dustbunny floor here is subpixel precise and to be frank, I couldn't get it to be completely consistent myself but I found this to be the best setup. After landing in the little alcove on the far right of the room, dash left then dash left again twice whilst staying neutral. Once you land on the lowering platform, short hyper and hold jump until you reach the left wall. From here, you want to dash downleft and grab the wall, then hold right and let go of the wall. If it's all done correctly, you should fall through the dustfloor and save about 1.3s or so over going for the bottom berry first.
+- - - -
+### e-11
+
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/70.webp)
+
+Another subpixel precise strat here, this one being a lot more consistent than the previous one though. After entering the screen, you want to crouchjump to the left wall and hold jump until Madeline auto-adjusts to the top of the wall. This sets up your subpixel to one that works for the rest of the strat. From here, jump to the nook in the wall to your right, where you'll now be hanging off the bottom pixel, allowing you to walljump off and then cornerjump with your second jump button off of the corner immediately after that. You'll retain your two dashes this way and be able to get to the seeded screen without using the block. Altogether this saves around 2s so it's quite substantial.
 - - - -
 ### d-04
 
