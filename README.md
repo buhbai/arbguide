@@ -255,7 +255,7 @@ When going backwards through the exit of the Resort heart room, the game does no
 - - - -
 ### 04-d to 02-d or "Shaft skip route"
 
-![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/12.webp)
+![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/81.webp)
 
 Shaft skip can be implemented into the ARB run by collecting the two berries located in 03-b, doing 04-c backward, collecting the berry on the way back and then performing shaft skip itself in 04-d. Optimally this saves around 1.7s~.
 
