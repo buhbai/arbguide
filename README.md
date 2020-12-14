@@ -8,6 +8,12 @@ _by buhbai_
   - [Berry mechanics](#berry-mechanics)
   - [Heart route](#heart-route)
 - [Forsaken City](https://github.com/buhbai/arbguide/forsakencity.md)
+- [Old Site](https://github.com/buhbai/arbguide/oldsite.md)
+- [Celestial Resort](https://github.com/buhbai/arbguide/celestialresort.md)
+- [Golden Ridge](https://github.com/buhbai/arbguide/goldenridge.md)
+- [Mirror Temple](https://github.com/buhbai/arbguide/mirrortemple.md)
+- [Summit](https://github.com/buhbai/arbguide/summit.md)
+- [Core](https://github.com/buhbai/arbguide/core.md)
 - [Closing words and credits](#closing-words-and-credits)
 - - - -
 ## Introduction
