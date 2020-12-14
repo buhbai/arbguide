@@ -1,7 +1,6 @@
 ## Forsaken City
 #### [Back to Main Page](https://github.com/buhbai/arbguide)                                                                      
 #### [⇨ Old Site](https://github.com/buhbai/arbguide/blob/master/oldsite.md)
-
 ### Table of Contents
 - [6a to s0 or "Coffee Shop Jump"](#6a-to-s0-or-coffee-shop-jump)
 - [s1 or "City heart"](#s1-or-city-heart)
