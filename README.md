@@ -7,7 +7,7 @@ _by buhbai_
 - [Introduction](#introduction)
   - [Berry mechanics](#berry-mechanics)
   - [Heart route](#heart-route)
-- - [Forsaken City](https://github.com/buhbai/arbguide/forsaken city.md)
+- [Forsaken City](https://github.com/buhbai/arbguide/forsaken-city.md)
 - [Closing words and credits](#closing-words-and-credits)
 - - - -
 ## Introduction
