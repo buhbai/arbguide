@@ -2,6 +2,14 @@
 #### [Back to Main Page](https://github.com/buhbai/arbguide)  
 #### [⇦ Mirror Temple](https://github.com/buhbai/arbguide/blob/master/mirrortemple.md) 
 #### [⇨ Core](https://github.com/buhbai/arbguide/blob/master/core.md)
+### Table of Contents
+- [a-02b](#a-02b)
+- [d-01c](#d-01c)
+- [d-04](#d-04)
+- [e-11](#e-11)
+- [f-05](#f-05)
+- [g-00b (Flag 21)](#g-00b-flag-21)
+- - - - 
 ### a-02b
 Two methods to do this demodash, the first being grabbing the side of the wall.
 
