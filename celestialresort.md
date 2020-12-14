@@ -1,5 +1,7 @@
-## Celestial Resorthttps://github.com/buhbai/arbguide/blob/master/celestial%20resort.md
-
+## Celestial Resort
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Old Site](https://github.com/buhbai/arbguide/blob/master/oldsite.md) 
+#### [⇨ Golden Ridge](https://github.com/buhbai/arbguide/blob/master/goldenridge.md)
 ### 06-b
 
 There are a number of strats that you can do for this screen that are a little slower than the optimal strat but is a fair bit easier which I'll be covering in this section. The first of which is almost the same as the optimal strat, just a slower entry with a reverse hyper instead of a demohyper. This is .2 slower than optimal.
@@ -63,3 +65,6 @@ This screen is quite troublesome and quite frankly, pretty annoying when it does
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/55.webp)
 
 The inputs for this is pretty self-explanatory and simple but the screen is really long and difficult so all I can reasonably say is study the video and practice it a lot. Also, don't be afraid to wait out an Oshiro cycle if you're too slow or you happen to mess up as it's infinitely better than dying and having to do the screen on the death cycle. This saves a little over a second so I definitely think it's something worth considering adding.
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Old Site](https://github.com/buhbai/arbguide/blob/master/oldsite.md) 
+#### [⇨ Golden Ridge](https://github.com/buhbai/arbguide/blob/master/goldenridge.md)
