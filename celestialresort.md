@@ -1,4 +1,4 @@
-## Celestial Resort
+## Celestial Resorthttps://github.com/buhbai/arbguide/blob/master/celestial%20resort.md
 
 ### 06-b
 
