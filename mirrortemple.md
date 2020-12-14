@@ -2,6 +2,17 @@
 #### [Back to Main Page](https://github.com/buhbai/arbguide)  
 #### [⇦ Golden Ridge](https://github.com/buhbai/arbguide/blob/master/goldenridge.md) 
 #### [⇨ Summit](https://github.com/buhbai/arbguide/blob/master/summit.md)
+### Table of Contents
+- [a-06](#a-06)
+- [a-10](#a-10)
+- [b-17](#b-17)
+- [b-03](#b-03)
+- [b-06 or "Crouched bubble skip"](#b-06-or-crouched-bubble-skip)
+- [c-08](#c-08)
+- [c-10](#c-10)
+- [d-15 (Upper Area)](#d-15-upper-area)
+- [d-04 (Lower Area)](#d-04-lower-area)
+- - - - 
 ### a-06
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/34.webp)
