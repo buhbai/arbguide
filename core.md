@@ -1,6 +1,11 @@
 ## Core
 #### [Back to Main Page](https://github.com/buhbai/arbguide)  
 #### [⇦ Summit](https://github.com/buhbai/arbguide/blob/master/mirrortemple.md) 
+### Table of Contents
+- [b-01 to b-06 or "Ice Skip"](#b-01-to-b-06-or-ice-skip)
+- [c-00b](#c-00b)
+- [c-03](#c-03)
+- - - - 
 ### b-01 to b-06 or "Ice Skip"
 
 Another strat that has two methods of doing it, one being slower but a lot easier to learn and be consistent at than the other. I'll be covering the faster and more difficult to get consistent at application first.
