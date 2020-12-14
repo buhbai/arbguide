@@ -1,5 +1,7 @@
 ## The Summit
-
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Mirror Temple](https://github.com/buhbai/arbguide/blob/master/mirrortemple.md) 
+#### [⇨ Core](https://github.com/buhbai/arbguide/blob/master/core.md)
 ### a-02b
 Two methods to do this demodash, the first being grabbing the side of the wall.
 
@@ -66,3 +68,6 @@ After grabbing the berry, grab the very top of the wall and then hold right like
 ![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/79.png)
 
 This will set you up so you can climbjump off the corner at the bottom and be able to reach the crumble block platform without using the spring, saving a few milliseconds if done well.
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Mirror Temple](https://github.com/buhbai/arbguide/blob/master/mirrortemple.md) 
+#### [⇨ Core](https://github.com/buhbai/arbguide/blob/master/core.md)
