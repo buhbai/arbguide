@@ -1,5 +1,6 @@
 ## Forsaken City
 
+[⇦ Back to Main Page](https://github.com/buhbai/arbguide)
 ### 6a to s0 or "Coffee Shop Jump"
 There are two ways to do this strat now, one with a demohyper-bunnyhop, one with a dashjump, the former being the faster of the two and, with practice, the easier one.
 
@@ -80,3 +81,5 @@ In the bottom left of the video (and of every video), I have an input display - 
 Pretty simple strat that looks daunting. Walk into the iceblock as it's falling and start fastfalling when you reach the poster in the background and buffer a jump.
 
 ![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/60.png)
+
+[⇦ Back to Main Page](https://github.com/buhbai/arbguide)
