@@ -2,6 +2,15 @@
 #### [Back to Main Page](https://github.com/buhbai/arbguide)  
 #### [⇦ Celestial Resort](https://github.com/buhbai/arbguide/blob/master/celestialresort.md) 
 #### [⇨ Mirror Temple](https://github.com/buhbai/arbguide/blob/master/mirrortemple.md)
+### Table of Contents
+- [a-09](#a-09)
+- [b-sec(2) or "Blockless heart"](#b-sec2-or-blockless-heart)
+- [b-08 or "First blockless"](#b-08-or-first-blockless)
+- [c-00 or "Under trail"](#c-00-or-under-trail)
+- [c_06b](#c-06b)
+- [c-08](#c-08)
+- [d-07](#d-07)
+- - - -
 ### a-09
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/56.webp)
