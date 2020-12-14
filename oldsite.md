@@ -1,5 +1,7 @@
 ## Old Site
-
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Forsaken City](https://github.com/buhbai/arbguide/blob/master/forsakencity.md) 
+#### [⇨ Celestial Resort](https://github.com/buhbai/arbguide/blob/master/celestialresort.md)
 ### d4 (Entry)
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/47.webp)
@@ -23,3 +25,6 @@ To line this spike cornerjump correctly, you need to jump off the edge of this p
 ![Image of visual cue](https://github.com/buhbai/arbguide/blob/master/Images/8.png)
 
 In order to set this up quickly from entry, from the first up hyper, go neutral and then up hyper off the left wall. Neutral off of this up hyper also and then walljump off the right wall and hold left. This is shown in the input display. Doing all of this correctly will line you up to jump off the edge of the platform when you land on the next screen, thus setting up the spike cornerjump itself.
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Forsaken City](https://github.com/buhbai/arbguide/blob/master/forsakencity.md) 
+#### [⇨ Celestial Resort](https://github.com/buhbai/arbguide/blob/master/celestialresort.md)
