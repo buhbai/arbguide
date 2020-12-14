@@ -2,6 +2,11 @@
 #### [Back to Main Page](https://github.com/buhbai/arbguide)  
 #### [⇦ Forsaken City](https://github.com/buhbai/arbguide/blob/master/forsakencity.md) 
 #### [⇨ Celestial Resort](https://github.com/buhbai/arbguide/blob/master/celestialresort.md)
+### Table of Contents
+- [d4 (Entry)](#d4-entry)
+- [d4 (Return)](#d4-return)
+- [end_3c](#end_3c)
+- - - - 
 ### d4 (Entry)
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/47.webp)
