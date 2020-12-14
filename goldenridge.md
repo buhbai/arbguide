@@ -1,5 +1,7 @@
 ## Golden Ridge
-
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Celestial Resort](https://github.com/buhbai/arbguide/blob/master/celestialresort.md) 
+#### [⇨ Mirror Temple](https://github.com/buhbai/arbguide/blob/master/mirrortemple.md)
 ### a-09
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/56.webp)
@@ -76,4 +78,7 @@ Not a very difficult strat here really but it's kind of risky because you have n
 
 ![Image of cue](https://github.com/buhbai/arbguide/blob/master/Images/64.png)
 
-demodash to the right, turn around and climbjump off the wall, or walljump off the wall, whatever you think is easier. 
+Demodash to the right, turn around and climbjump off the wall, or walljump off the wall, whatever you think is easier. 
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Celestial Resort](https://github.com/buhbai/arbguide/blob/master/celestialresort.md) 
+#### [⇨ Mirror Temple](https://github.com/buhbai/arbguide/blob/master/mirrortemple.md)
