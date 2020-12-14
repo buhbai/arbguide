@@ -1,6 +1,15 @@
 ## Forsaken City
 #### [Back to Main Page](https://github.com/buhbai/arbguide)                                                                      
 #### [⇨ Old Site](https://github.com/buhbai/arbguide/blob/master/oldsite.md)
+
+### Table of Contents
+- [6a to s0 or "Coffee Shop Jump"](#6a-to-s0-or-coffee-shop-jump)
+- [s1 or "City heart"](#s1-or-city-heart)
+- [6b to 7z](#6b-to-7z)
+- [9c](#9c)
+- [12](#12)
+  
+  
 ### 6a to s0 or "Coffee Shop Jump"
 There are two ways to do this strat now, one with a demohyper-bunnyhop, one with a dashjump, the former being the faster of the two and, with practice, the easier one.
 
