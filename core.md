@@ -1,5 +1,6 @@
 ## Core
-
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Summit](https://github.com/buhbai/arbguide/blob/master/mirrortemple.md) 
 ### b-01 to b-06 or "Ice Skip"
 
 Another strat that has two methods of doing it, one being slower but a lot easier to learn and be consistent at than the other. I'll be covering the faster and more difficult to get consistent at application first.
@@ -65,3 +66,5 @@ There's a myriad of strats that you can do in this screen but for this guide, I'
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/67.webp)
 
 After the hyper bunnyhop into ultra at the start of the screen, the rest is very straightforward and not precise at all. The only way you mess this up is not grabbing the dash crystal at the beginning so just make sure to keep your hyper bunnyhop tight and don't crouch for the bunnyhop so your hitbox is bigger.
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Summit](https://github.com/buhbai/arbguide/blob/master/mirrortemple.md) 
