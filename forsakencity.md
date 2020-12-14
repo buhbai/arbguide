@@ -7,8 +7,7 @@
 - [6b to 7z](#6b-to-7z)
 - [9c](#9c)
 - [12](#12)
-  
-  
+- - - - 
 ### 6a to s0 or "Coffee Shop Jump"
 There are two ways to do this strat now, one with a demohyper-bunnyhop, one with a dashjump, the former being the faster of the two and, with practice, the easier one.
 
