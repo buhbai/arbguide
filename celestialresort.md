@@ -4,13 +4,13 @@
 #### [⇨ Golden Ridge](https://github.com/buhbai/arbguide/blob/master/goldenridge.md)
 ### Table of Contents
 - [06-b](#06-b)
-  - [05-c to 07-b or "Jasig"](#05-c-to-07-b-or-jasig)
-  - [12-x](#12-x)
-  - [12-x to 13-b](#12-x-to-13-b)
-  - [11-c or "Resort heart checkpoint"](#11-c-or-resort-heart-checkpoint)
-  - [04-d to 02-d or "Shaft skip route"](#04-d-to-02-d-or-shaft-skip-route)
-  - [roof03](#roof03)
-  - [roof06](#roof06)
+- [05-c to 07-b or "Jasig"](#05-c-to-07-b-or-jasig)
+- [12-x](#12-x)
+- [12-x to 13-b](#12-x-to-13-b)
+- [11-c or "Resort heart checkpoint"](#11-c-or-resort-heart-checkpoint)
+- [04-d to 02-d or "Shaft skip route"](#04-d-to-02-d-or-shaft-skip-route)
+- [roof03](#roof03)
+- [roof06](#roof06)
 - - - -
 ### 06-b
 
