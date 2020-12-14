@@ -1,5 +1,7 @@
 ## Mirror Temple
-
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Golden Ridge](https://github.com/buhbai/arbguide/blob/master/goldenridge.md) 
+#### [⇨ Summit](https://github.com/buhbai/arbguide/blob/master/summit.md)
 ### a-06
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/34.webp)
@@ -79,3 +81,6 @@ Involving an ultra into a spikejump, this strat skips this screen almost entirel
 This shows around about where you will want to be ultraing from out of the bubble - you want to ultra from the right half of this gold candle roughly. If you ultra later, you will dash into the spike floor. Once you ultra, do not hold down and you should be able to grab onto the side of the corner. From there, simply climbjump into the bubble.
 
 Now that you’re in the bubble, all you have to do is move up with the bubble and quickly dash up out of it. This will make you grab the berry just barely whilst also breaking the bubble a lot sooner than if you were to continue with the bubble all the way to the ceiling, meaning the bubble will also respawn sooner. When you grab the berry, do not fast fall into the bubble, slow falling into it perfectly lands you inside it as it spawns. From there, you just head for the bubble near the exit.
+#### [Back to Main Page](https://github.com/buhbai/arbguide)  
+#### [⇦ Golden Ridge](https://github.com/buhbai/arbguide/blob/master/goldenridge.md) 
+#### [⇨ Summit](https://github.com/buhbai/arbguide/blob/master/summit.md)
