@@ -2,6 +2,16 @@
 #### [Back to Main Page](https://github.com/buhbai/arbguide)  
 #### [⇦ Old Site](https://github.com/buhbai/arbguide/blob/master/oldsite.md) 
 #### [⇨ Golden Ridge](https://github.com/buhbai/arbguide/blob/master/goldenridge.md)
+### Table of Contents
+- [06-b](#06-b)
+  - [05-c to 07-b or "Jasig"](#05-c-to-07-b-or-jasig)
+  - [12-x](#12-x)
+  - [12-x to 13-b](#12-x-to-13-b)
+  - [11-c or "Resort heart checkpoint"](#11-c-or-resort-heart-checkpoint)
+  - [04-d to 02-d or "Shaft skip route"](#04-d-to-02-d-or-shaft-skip-route)
+  - [roof03](#roof03)
+  - [roof06](#roof06)
+- - - -
 ### 06-b
 
 There are a number of strats that you can do for this screen that are a little slower than the optimal strat but is a fair bit easier which I'll be covering in this section. The first of which is almost the same as the optimal strat, just a slower entry with a reverse hyper instead of a demohyper. This is .2 slower than optimal.
