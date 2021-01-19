@@ -17,7 +17,9 @@ _by buhbai_
 - [Closing words and credits](#closing-words-and-credits)
 - - - -
 ## Introduction
-This guide will be giving a detailed rundown on the advanced strategies that aren’t fully self explanatory in the ARB run. It is not a full route guide, you can watch any top runner’s PB for that. This is aimed at runners that already have experience with the game itself, either with ILing or with running Any%, therefore I will not be explaining the speedtech and basic mechanics of the game and assume you know all of that already.
+This guide will be giving a detailed rundown on the advanced strategies that aren’t fully self explanatory in the ARB run. It is not a full route guide, but you can watch the Celeste All Red Berries Speedrun Tutorial Series curated by profnyan, Xenoras and Tiyo98 here if you would like a full route guide for ARB: https://www.youtube.com/playlist?list=PL4uRzak8ww7PVFLNFNcSUF2NsviHd65ft. 
+
+This guide however is aimed at runners that already have experience with the game itself, either with ILing or with running Any%, therefore I will not be explaining the speedtech and basic mechanics of the game and assume you know all of that already.
 
 I will be labelling each screen by its ID denoted in debug mode (screens that are visited more than once or are large that need specifying where in the screen the strat is are shown with “(x)” next to their ID). If you have any questions about anything specific that needs more elaboration than I’ve already given here, then DM me on discord @buhbai#3333. **This guide is a constant WIP** - if you feel like a strat needs to be further explained and deserves to be in the guide then also DM me and I’ll consider adding it.
 
