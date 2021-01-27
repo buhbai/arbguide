@@ -65,7 +65,7 @@ Firstly out of the bubble, you want to upright dash and reverse climbjump to get
 
 ![Image of strat](https://github.com/buhbai/arbguide/blob/master/Images/63.png)
 
-From here, you want to neutral jump over the lip and then buffer a full jump to the right; you want to hold right for longer than you think. Once you believe you're able to cornerjump off the next wall over, keep holding jump and right and cornerjump with your second jump button. If you did everything correctly, you should get a cornerjump, which you can then climbjump up the wall and enter the bubble like normal. It's a pretty feel-based strat and you just need to ram your head into it a bunch until you start getting it if you want to use it in runs.
+From here, you want to neutral jump over the lip but not a max height neutral jump and then input a full jump to the right but not buffer it; you want to hold right for longer than you think. Once you believe you're able to cornerjump off the next wall over, keep holding jump and right and cornerjump with your second jump button. If you did everything correctly, you should get a cornerjump, which you can then climbjump up the wall and enter the bubble like normal. It's a pretty feel-based strat and you just need to ram your head into it a bunch until you start getting it if you want to use it in runs.
 - - - -
 ### c-06b
 
